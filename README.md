@@ -1,10 +1,11 @@
 These are the Lab Experiments from my Computer Networks Course.
-Here are the following experiments:
 
 The first 7 experiment's code in C is uploaded
 
 > [!NOTE]  
 > Mid-Term question is also uploaded 
+
+Here are the following experiments:
 
 | Experiment Number | Experiment Name                |
 |-------------------|--------------------------------|
